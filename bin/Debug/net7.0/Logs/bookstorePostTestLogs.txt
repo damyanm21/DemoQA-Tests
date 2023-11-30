@@ -1,0 +1,2 @@
+2023-11-29 19:55:43.524 +02:00 [INF] Adding invalid book to a user's collection test completed with status: False
+2023-11-29 19:55:43.682 +02:00 [INF] Adding a valid book to a user's collection test completed with status: True

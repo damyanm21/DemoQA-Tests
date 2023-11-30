@@ -1,0 +1,11 @@
+2023-11-29 19:55:37.209 +02:00 [INF] User creation test for 'testuser' completed with status: True
+2023-11-29 19:55:37.366 +02:00 [INF] User creation test for 'TestUser' completed with status: True
+2023-11-29 19:55:37.525 +02:00 [INF] User creation test for 'testuser123' completed with status: True
+2023-11-29 19:55:37.680 +02:00 [INF] User creation test for 'TestUser123' completed with status: True
+2023-11-29 19:55:37.833 +02:00 [INF] User creation test for 'TestUser_123' completed with status: True
+2023-11-29 19:55:37.987 +02:00 [INF] User creation test for 'Test User' completed with status: True
+2023-11-29 19:55:38.160 +02:00 [INF] User creation test for 'TESTUSER' completed with status: True
+2023-11-29 19:55:38.313 +02:00 [INF] User creation test for 't' completed with status: True
+2023-11-29 19:55:38.477 +02:00 [INF] User creation test for '1' completed with status: True
+2023-11-29 19:55:38.633 +02:00 [INF] User creation test for '@' completed with status: True
+2023-11-29 19:55:38.784 +02:00 [INF] User creation test for ' ' completed with status: True
