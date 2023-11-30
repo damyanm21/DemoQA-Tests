@@ -1,0 +1,2 @@
+2023-11-29 19:55:38.943 +02:00 [INF] Remove an invalid book from a user's collection test completed with status: False
+2023-11-29 19:55:39.099 +02:00 [INF] Remove a valid book from a user's collection test completed with status: True

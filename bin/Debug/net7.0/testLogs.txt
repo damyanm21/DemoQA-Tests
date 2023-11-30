@@ -1,0 +1,13 @@
+2023-11-28 19:22:31.474 +02:00 [INF] Invalid password tests for 'InvalidPassword123' completed with status: False
+2023-11-28 19:22:32.583 +02:00 [INF] User creation test for 'testuser' completed with status: True
+2023-11-28 19:22:34.006 +02:00 [INF] User creation test for '@' completed with status: True
+2023-11-28 19:22:39.054 +02:00 [INF] Adding a valid book to a user's collection test completed with status: True
+2023-11-28 19:23:38.553 +02:00 [INF] Replacing book test completed: True
+2023-11-28 19:23:50.628 +02:00 [INF] Adding a valid book to a user's collection test completed with status: True
+2023-11-28 19:24:04.197 +02:00 [INF] Adding invalid book to a user's collection test completed with status: False
+2023-11-28 19:25:16.408 +02:00 [INF] Total pages for book with isbn 9781491904244: 278
+2023-11-28 19:25:30.441 +02:00 [INF] Remove a valid book from a user's collection test completed with status: True
+2023-11-28 19:25:49.957 +02:00 [INF] Remove an invalid book from a user's collection test completed with status: False
+2023-11-28 19:26:12.067 +02:00 [INF] User creation test for 'testuser' completed with status: True
+2023-11-28 19:26:13.492 +02:00 [INF] User creation test for '@' completed with status: True
+2023-11-28 19:26:20.422 +02:00 [INF] Invalid password tests for 'InvalidPassword123' completed with status: False

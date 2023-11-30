@@ -1,0 +1,7 @@
+2023-11-29 19:55:36.051 +02:00 [INF] User creation tests for 'InvalidPassword123' completed with status: False
+2023-11-29 19:55:36.225 +02:00 [INF] User creation tests for 'InvalidPassword@' completed with status: False
+2023-11-29 19:55:36.390 +02:00 [INF] User creation tests for 'invalidpassword123@' completed with status: False
+2023-11-29 19:55:36.545 +02:00 [INF] User creation tests for 'INVALIDPASSWORD123@' completed with status: False
+2023-11-29 19:55:36.700 +02:00 [INF] User creation tests for 'P@ss1' completed with status: False
+2023-11-29 19:55:36.870 +02:00 [INF] User creation with missing password test completed with status: False
+2023-11-29 19:55:37.038 +02:00 [INF] User creation with missing username test completed with status: False
